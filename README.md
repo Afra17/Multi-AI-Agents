@@ -150,19 +150,22 @@ Clone the repository:
 ```bash
 git clone https://github.com/username/multi-ai-agent.git
 cd multi-ai-agent
+
 + Create a virtual environment and install dependencies:
 pip install -r requirements.txt
+
 + Add your API keys in .env:
 AGENTOPS_API_KEY=your_key_here
 GROQ_API_KEY=your_key_here
 -tools key : 
 TAVILY_API_KEY=your_key_here
 SGAI_API_KEY=your_key_here
-+Run the system:
+
++ Run the system:
 python main.py
 
 
-+Project Structure
++ Project Structure
 
 ```markdown
 manage AI agents/
