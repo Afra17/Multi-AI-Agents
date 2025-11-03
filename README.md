@@ -10,7 +10,7 @@ An intelligent multi-agent system built with CrewAI and AgentOps that automates 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##  Key Features
 
-**Smart Search Optimization :**
+**🔍 Smart Search Optimization :**
 
 + Intelligent Query Generation: AI-powered search query recommendations
 
@@ -18,7 +18,7 @@ An intelligent multi-agent system built with CrewAI and AgentOps that automates 
 
 + Quality Filtering: Automatic filtering based on confidence scores and ratings
 
-**Advanced Data Extraction:**
+**📊 Advanced Data Extraction:**
 
 + Structured Product Data: Automated extraction of prices, specifications, and images
 
@@ -26,7 +26,7 @@ An intelligent multi-agent system built with CrewAI and AgentOps that automates 
 
 + Product Comparison: Side-by-side specification analysis
 
-**Professional Reporting:**
+**📊 Professional Reporting:**
 
 + Automated Procurement Reports: Comprehensive market analysis
 
