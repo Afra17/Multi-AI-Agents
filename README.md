@@ -57,7 +57,7 @@ graph TD
     D --> E[Report Author Agent]
     E --> F[Report Critic Agent]
     F --> G[Final Report]
-
+```
 
 ## Agent Responsibilities
 
