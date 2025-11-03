@@ -38,6 +38,7 @@ An intelligent multi-agent system built with CrewAI and AgentOps that automates 
 
 
 ## Core Technologies
+<p align="center">
 
 | Technology | Purpose | Benefits |
 |-------------|----------|-----------|
@@ -60,6 +61,7 @@ graph TD
 ```
 
 ## Agent Responsibilities
+<p align="center">
 
 | Agent | Role | Output |
 |--------|------|---------|
