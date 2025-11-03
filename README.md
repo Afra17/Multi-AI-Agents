@@ -38,15 +38,37 @@ An intelligent multi-agent system built with CrewAI and AgentOps that automates 
 
 
 ## Core Technologies
-<p align="center">
+<div align="center">
 
-| Technology | Purpose | Benefits |
-|-------------|----------|-----------|
-| **CrewAI** | Multi-agent orchestration framework | Sequential workflow, agent collaboration, task management |
-| **AgentOps** | Agent monitoring and analytics | Performance tracking, session replay, debugging tools |
-| **Groq** | High-speed LLM inference | Ultra-fast response times, efficient processing |
-| **Pydantic** | Data validation and serialization | Type safety, structured outputs, JSON schema generation |
-</p>
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Purpose</th>
+    <th>Benefits</th>
+  </tr>
+  <tr>
+    <td><b>🤖 CrewAI</b></td>
+    <td>Multi-agent orchestration framework</td>
+    <td>Sequential workflow, agent collaboration, task management</td>
+  </tr>
+  <tr>
+    <td><b>📊 AgentOps</b></td>
+    <td>Agent monitoring and analytics</td>
+    <td>Performance tracking, session replay, debugging tools</td>
+  </tr>
+  <tr>
+    <td><b>🚀 Groq</b></td>
+    <td>High-speed LLM inference</td>
+    <td>Ultra-fast response times, efficient processing</td>
+  </tr>
+  <tr>
+    <td><b>📝 Pydantic</b></td>
+    <td>Data validation and serialization</td>
+    <td>Type safety, structured outputs, JSON schema generation</td>
+  </tr>
+</table>
+
+</div>
 
 
 ## System Architecture
