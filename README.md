@@ -9,7 +9,9 @@ An intelligent multi-agent system built with CrewAI and AgentOps that automates 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🚀 Key Features
-## Smart Search Optimization
+Smart Search Optimization
 +Intelligent Query Generation: AI-powered search query recommendations
+
 +Multi-Platform Search: Simultaneous search across multiple e-commerce platforms
+
 + Quality Filtering: Automatic filtering based on confidence scores and ratings
