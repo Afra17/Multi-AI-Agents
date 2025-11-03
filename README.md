@@ -125,5 +125,14 @@ graph TD
 
 
 ## 📊 AgentOps Monitoring Dashboard
+Real-time Monitoring Features
+
++ 🖥️ Session Replay: Watch exact agent execution sequences
+
++ 📈 Performance Metrics: Track agent response times and success rates
+
++ 🔍 Error Analysis: Detailed error tracking and debugging
+
++ 📋 Agent Analytics: Individual and team performance insights
 
 <img width="1444" height="798" alt="image" src="https://github.com/user-attachments/assets/218499c6-370c-4a2c-88c9-e7c9b5e07538" />
