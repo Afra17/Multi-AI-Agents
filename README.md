@@ -46,6 +46,7 @@ An intelligent multi-agent system built with CrewAI and AgentOps that automates 
 | **AgentOps** | Agent monitoring and analytics | Performance tracking, session replay, debugging tools |
 | **Groq** | High-speed LLM inference | Ultra-fast response times, efficient processing |
 | **Pydantic** | Data validation and serialization | Type safety, structured outputs, JSON schema generation |
+</p>
 
 
 ## System Architecture
@@ -70,6 +71,7 @@ graph TD
 | **Web Scraping Agent** | Extracts product details | Structured product data |
 | **Report Author Agent** | Creates draft procurement report | Initial report draft |
 | **Report Critic Agent** | Quality assurance and feedback | Detailed critique |
+</p>
 
 
 
