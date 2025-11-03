@@ -146,7 +146,7 @@ Real-time Monitoring Features
 
 ## Installation & Setup
 
-1. Clone the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/username/multi-ai-agent.git
 cd multi-ai-agent
@@ -162,8 +162,7 @@ SGAI_API_KEY=your_key_here
 python main.py
 
 
-
-## **Project Structure**
+**Project Structure**
 
 ```markdown
 manage AI agents/
@@ -179,6 +178,5 @@ manage AI agents/
 ├── requirements.txt
 └── README.md
 
-نسخ الكود
-
+نسخ الكو
 
