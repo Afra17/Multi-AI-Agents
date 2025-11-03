@@ -49,6 +49,7 @@ An intelligent multi-agent system built with CrewAI and AgentOps that automates 
 
 ## System Architecture
 
+'''mermaid
 graph TB
     A[User Input] --> B[Search Query Agent]
     B --> C[Search Engine Agent]
