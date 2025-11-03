@@ -69,3 +69,7 @@ graph TD
 | **Report Author Agent** | Creates draft procurement report | Initial report draft |
 | **Report Critic Agent** | Quality assurance and feedback | Detailed critique |
 
+
+
+📊 AgentOps Monitoring Dashboard
+<img width="1444" height="798" alt="image" src="https://github.com/user-attachments/assets/218499c6-370c-4a2c-88c9-e7c9b5e07538" />
