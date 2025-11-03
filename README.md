@@ -8,4 +8,8 @@
 An intelligent multi-agent system built with CrewAI and AgentOps that automates product research, price comparison, and procurement reporting using advanced AI agents working in coordinated workflows.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+## 🚀 Key Features
+## Smart Search Optimization
++Intelligent Query Generation: AI-powered search query recommendations
++Multi-Platform Search: Simultaneous search across multiple e-commerce platforms
++ Quality Filtering: Automatic filtering based on confidence scores and ratings
