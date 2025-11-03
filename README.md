@@ -38,13 +38,13 @@ An intelligent multi-agent system built with CrewAI and AgentOps that automates 
 
 
 ## Core Technologies
-            
-            | Technology | Purpose | Benefits |
-            |-------------|----------|-----------|
-            | 🤖 **CrewAI** | Multi-agent orchestration framework | Sequential workflow, agent collaboration, task management |
-            | 📊 **AgentOps** | Agent monitoring and analytics | Performance tracking, session replay, debugging tools |
-            | 🚀 **Groq** | High-speed LLM inference | Ultra-fast response times, efficient processing |
-            | 📝 **Pydantic** | Data validation and serialization | Type safety, structured outputs, JSON schema generation |
+
+| Technology | Purpose | Benefits |
+|-------------|----------|-----------|
+| **CrewAI** | Multi-agent orchestration framework | Sequential workflow, agent collaboration, task management |
+| **AgentOps** | Agent monitoring and analytics | Performance tracking, session replay, debugging tools |
+| **Groq** | High-speed LLM inference | Ultra-fast response times, efficient processing |
+| **Pydantic** | Data validation and serialization | Type safety, structured outputs, JSON schema generation |
 
 
 ## System Architecture
@@ -57,4 +57,15 @@ graph TD
     D --> E[Report Author Agent]
     E --> F[Report Critic Agent]
     F --> G[Final Report]
+
+
+## Agent Responsibilities
+
+| Agent | Role | Output |
+|--------|------|---------|
+| **Search Query Agent** | Generates optimized search queries | JSON search queries |
+| **Search Engine Agent** | Searches across multiple platforms | Filtered search results |
+| **Web Scraping Agent** | Extracts product details | Structured product data |
+| **Report Author Agent** | Creates draft procurement report | Initial report draft |
+| **Report Critic Agent** | Quality assurance and feedback | Detailed critique |
 
