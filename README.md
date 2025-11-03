@@ -147,25 +147,26 @@ Real-time Monitoring Features
 ## Installation & Setup
 
 1. Clone the repository:
-   ```bash
-  git clone https://github.com/username/multi-ai-agent.git
-  cd multi-ai-agent
+```bash
+git clone https://github.com/username/multi-ai-agent.git
+cd multi-ai-agent
 
 2. Create a virtual environment and install dependencies:
-   pip install -r requirements.txt
-   
+pip install -r requirements.txt
+
 3. Add your API keys in .env:
-  AGENTOPS_API_KEY=your_key_here
-  GROQ_API_KEY=your_key_here
-  -tools key : 
-  TAVILY_API_KEY=your_key_here
-  SGAI_API_KEY=your_key_here
+AGENTOPS_API_KEY=your_key_here
+GROQ_API_KEY=your_key_here
+-tools key : 
+TAVILY_API_KEY=your_key_here
+SGAI_API_KEY=your_key_here
 
 4. Run the system:
-   python main.py
+python main.py
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## **Project Structure**
 
+```markdown
 manage AI agents/
 ├── Multi_Agent/
 │ ├── search_query_agent.py
