@@ -168,7 +168,7 @@ python main.py
 + Project Structure
 
 ```markdown
-manage AI agents/
+manage-AI-agents/
 ├── Multi_Agent/
 │ ├── search_query_agent.py
 │ ├── search_engine_agent.py
