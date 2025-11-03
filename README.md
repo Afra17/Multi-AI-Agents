@@ -62,16 +62,17 @@ graph TD
 ```
 
 ## Agent Responsibilities
-<p align="center">
 
+<p align="center">
 | Agent | Role | Output |
 |--------|------|---------|
-| **Search Query Agent** | Generates optimized search queries | JSON search queries |
-| **Search Engine Agent** | Searches across multiple platforms | Filtered search results |
-| **Web Scraping Agent** | Extracts product details | Structured product data |
-| **Report Author Agent** | Creates draft procurement report | Initial report draft |
-| **Report Critic Agent** | Quality assurance and feedback | Detailed critique |
+| 🔍 **Search Query Agent** | Generates optimized search queries | JSON search queries |
+| 🌐 **Search Engine Agent** | Searches across multiple platforms | Filtered search results |
+| 🕸️ **Web Scraping Agent** | Extracts product details | Structured product data |
+| ✍️ **Report Author Agent** | Creates draft procurement report | Initial report draft |
+| 🧠 **Report Critic Agent** | Quality assurance and feedback | Detailed critique |
 </p>
+
 
 
 
